@@ -1,0 +1,7 @@
+D:\Projects\c#\dotNET-module-13-practice\dotNET-module-13-practice\bin\Debug\dotNET-module-13-practice.exe.config
+D:\Projects\c#\dotNET-module-13-practice\dotNET-module-13-practice\bin\Debug\dotNET-module-13-practice.exe
+D:\Projects\c#\dotNET-module-13-practice\dotNET-module-13-practice\bin\Debug\dotNET-module-13-practice.pdb
+D:\Projects\c#\dotNET-module-13-practice\dotNET-module-13-practice\obj\Debug\dotNET-module-13-practice.csproj.SuggestedBindingRedirects.cache
+D:\Projects\c#\dotNET-module-13-practice\dotNET-module-13-practice\obj\Debug\dotNET-module-13-practice.csproj.CoreCompileInputs.cache
+D:\Projects\c#\dotNET-module-13-practice\dotNET-module-13-practice\obj\Debug\dotNET-module-13-practice.exe
+D:\Projects\c#\dotNET-module-13-practice\dotNET-module-13-practice\obj\Debug\dotNET-module-13-practice.pdb
